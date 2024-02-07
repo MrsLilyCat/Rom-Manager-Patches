@@ -1,0 +1,21 @@
+{
+  "Name": "Red-Coin Counter 2",
+  "Scripts": [
+    {
+      "Name": "",
+      "Script": "9E8E4: 08 10 10 FB 00 00 00 00\n12043EC: 27 BD FF E8 AF BF 00 14 24 04 00 1E 0C 0B 6D 26 24 05 00 C1 3C 06 80 34 24 C6 83 84 24 04 00 26 0C 0B 59 55 24 05 00 C1 3C 06 80 34 3C 07 80 36 80 E7 13 FE 24 C6 83 88 24 04 00 36 0C 0B 58 B6 24 05 00 C1 00 00 00 00 8F BF 00 14 27 BD 00 18 03 E0 00 08 00 00 00 00",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": null
+    }
+  ],
+  "Version": "1.0.0.0",
+  "MinVersion": "1.0.0.0",
+  "MaxVersion": "0.0.0.0",
+  "Description": "Adds a Red-Coin Counter under mario's Lives",
+  "EmbeddedFiles": {
+    "CompressedFiles": {}
+  },
+  "ID": null
+}
